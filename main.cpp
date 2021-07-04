@@ -24,11 +24,13 @@ tNo* no2;
 tNo* no3;
 
 no1 = criaNo(10);
-no2 = criaNo(20);
-no3 = criaNo(30);
+no2 = criaNo(35);
 
-cout << no1->info << endl;
-cout << no2->info << endl;
-cout << no3->info << endl;
+cout << no1 ->info << endl;
+cout << no1<< endl;
+
+cout << no2 ->info << endl;
+cout << no2<< endl;
+
 
 }
